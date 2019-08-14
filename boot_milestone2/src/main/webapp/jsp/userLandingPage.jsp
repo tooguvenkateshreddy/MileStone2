@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>GSE | Landing</title>
+        <title>VSE | Landing</title>
         <!-- Latest compiled and minified CSS -->
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
         <!-- jQuery library -->
@@ -18,7 +18,7 @@
                 <nav class="navbar navbar-inverse">
                     <div class="container-fluid">
                         <div class="navbar-header">
-                            <a class="navbar-brand" href="adminLandingPage.html" style="color:rgb(10, 153, 197);">Grit Stock Exchange</a>
+                            <a class="navbar-brand" href="adminLandingPage.html" style="color:rgb(10, 153, 197);">Venky Stock Exchange</a>
                         </div>
                         <ul class="nav navbar-nav">
                             <li id="ipoBtn" data-toggle="modal"><a href="#">IPOs</a></li>
@@ -73,7 +73,7 @@
                                                             <option>Select</option>
                                                             <option>BSE</option>
                                                             <option>NSE</option>
-                                                            <option>GSE</option>
+                                                            <option>VSE</option>
                                                           </select>
                                                         </td>
                                                     <tr>
